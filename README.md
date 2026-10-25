@@ -13,8 +13,8 @@ Welcome to my repository! I am a 14.5-year-old self-taught programmer. I started
 * **tut 3:** Basic Input & Output(cin and cout)
 * **tut 4:** I learnt using user defined Header files
 * **tut 5:** All types of Operators
-* **tut 6:** Reference Variable and Typecasting
-* **tut 7:** A practice File
+* **tut 6:** A practice file
+* **tut 7:** Reference Variable and Typecasting
 
 ---
 *🔥 "Consistency is the key to mastering code." Tracking my green contribution grid one tutorial at a time!*
