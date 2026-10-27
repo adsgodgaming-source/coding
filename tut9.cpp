@@ -20,3 +20,5 @@ int main(){
     
     return 0;
 }
+
+//This forms a rectangle with 2's and 2222 at the top and bottom. The setw() function is used to set the width of the output field for each number, ensuring proper alignment in the output.
