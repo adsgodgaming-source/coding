@@ -15,6 +15,6 @@ Welcome to my repository! I am a 14.5-year-old self-taught programmer. I started
 * **tut 5:** All types of Operators
 * **tut 6:** A practice file
 * **tut 7:** Reference Variable and Typecasting
-
+* **tut 8:** Constants and Manipulators
 ---
 *🔥 "Consistency is the key to mastering code." Tracking my green contribution grid one tutorial at a time!*
